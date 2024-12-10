@@ -27,6 +27,8 @@ Publish the website in the given URL.
 
 # PROGRAM:
 
+
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -706,6 +708,8 @@ nav {
     </footer>
 </body>
 </html>
+```
+
 
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/1bf25f30-4f58-44d4-a473-e8e46303761c)
